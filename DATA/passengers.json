@@ -1,0 +1,34 @@
+{
+  "passengers": [
+    {
+      "id": "d2e7",
+      "name": "Pranavi",
+      "age": 21,
+      "bus number": "100",
+      "seat number": 5,
+      "destination": "banglore"
+    },
+    {
+      "id": "db7a",
+      "name": "Manjusha",
+      "age": 25,
+      "bus number": "150",
+      "seat number": 15,
+      "destination": "Hyderabad"
+    },
+    {
+      "name": "Anusha",
+      "age": 22,
+      "id": "04eb"
+    },
+    {
+      "id": "f976",
+      "name": "mythrisha"
+    },
+    {
+      "id": "7209",
+      "name": "mythrisha",
+      "age": 20
+    }
+  ]
+}

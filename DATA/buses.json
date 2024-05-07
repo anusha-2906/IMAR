@@ -1,0 +1,38 @@
+{
+  "buses": [
+    {
+      "id": "002A",
+      "number": "bus 101",
+      "capacity": 50,
+      "destination": "Majestic",
+      "departure time": "8.30 AM"
+    },
+    {
+      "id": "4561",
+      "number": "bus 102",
+      "capacity": 55,
+      "destination": "Chikkaballapur",
+      "departure time": "11.00 AM"
+    },
+    {
+      "id": "003B",
+      "number": "bus 103",
+      "capacity": 40,
+      "destination": "kadiri",
+      "departure time": "4.00 PM"
+    },
+    {
+      "id": "e0dc",
+      "number": "bus 120",
+      "capacity": 50,
+      "destination": "koramangala"
+    },
+    {
+      "number": "bus 120",
+      "capacity": 50,
+      "destination": "Chintamani",
+      "departuretime": "5.00 PM",
+      "id": "f9c1"
+    }
+  ]
+}
